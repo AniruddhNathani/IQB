@@ -1,4 +1,4 @@
-# IQB
+# Intelligent Question Bank
 
 Complexity Theory:
 http://www.solipsistslog.com/complexity/
