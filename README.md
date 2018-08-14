@@ -1,5 +1,8 @@
 # Intelligent Question Bank
 
+MEAN STACK :
+https://www.youtube.com/watch?v=wtIvu085uU0
+
 Complexity Theory:
 http://www.solipsistslog.com/complexity/
 
